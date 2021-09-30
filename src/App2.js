@@ -12,8 +12,8 @@ const App = () => {
       <center>
         <h1>INDIA COVID-19 dASHBOARD</h1>
 
-        <table className="table">
-          <thead className="thead-dark">
+        <table>
+          <thead>
             <tr>
               <th>State</th>
               <th>Confirmed</th>
